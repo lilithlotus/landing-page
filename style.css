@@ -1,0 +1,23 @@
+html {
+    background-color: #1f2937;
+}
+
+header {
+    display: flex;
+}
+
+header p {
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+nav a {
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+* {
+    border: 1px solid white;
+}
+
